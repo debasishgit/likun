@@ -1,0 +1,25 @@
+• Working experience in Jenkin,Nagious,Docker and Ec2, VPC, S3, IAM, , SNS, Cloud Watch, EBS, Glacier, Elastic Load Balancer, Auto Scaling, RDS, , AWS CLI, Cloud Front, Cloud watch, EFS, Route53, AWS Organizations, Cross Account Access, Consolidated Billing VPC Peering and AWS Organizations.
+• Setup code repositories Like GIT.
+• Configuring POM.XML file in Maven.
+• Knowledge in Dependency Management and Deploy Automation.
+• Having very good experience in setting up FREE STYLE Project.
+• Configuring the Docker containers by using Docker Images.
+• Creating Docker images by using docker file
+• Creating Docker images from Containers
+• Having very good experience in working with docker volumes
+• Experience in port mapping in Docker
+• Setting up of own docker registry
+• Having very good knowledge in installation of jenkins
+• Good knowledge in configuring nodes in jenkins
+• Working experience in using multiple plugins
+• Integrating jenkins with git and maven
+• Setting up of maven, CI and CD jobs
+• Knowledge in configuring dependency jobs in jenkins
+• Experience in maintaining the CI with Jenkins
+• Managed and monitored the servers and network infrastructure using Nagios Monitoring Tool
+• Job Automation by using cron.
+• Creating Groups, modifying properties of Groups and Adding & Removing Members to Groups.
+• Worked on Identity Access Management (IAM) like AWS permissions, Roles, Policies,User permissions and Groups.
+• Worked on EC2 (Elastic Compute Cloud), Launch an EC2 Instance, use of Putty (for Windows Users), Security Groups, Upgrading EBS Volume Types, Load Balancers and Health Checks, Cloud Watch EC2, Autoscaling Groups.
+• Complete hands on experience on VPC, Public subnets & private subnets,I ntroduction to Gateways, Understanding Route tables & Subnets, Build Your Own Custom VPC, Network Address Translation (NAT).
+• Worked on SNS, Create a Billing Alarm, Consolidated Billing

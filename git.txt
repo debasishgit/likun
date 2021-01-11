@@ -1,0 +1,73 @@
+
+
+		1. git init 
+		    Use to Install git in your local repository.
+
+		2. git remote add origin "<Link>"
+		    Use to add the remote repository to origin.
+
+		3. git pull origin master
+		    To fetch files from the central repository to local.
+
+		4. git status
+		    Tell us which files are add to Index and are ready to commit.
+
+		5. git add, git add -A
+		    To add single/ multiple files to the index.
+
+		6. git commit -m 
+		    A message of your commitment.
+
+		7. git log
+		    It shows the author and time about all your commit.
+
+		8. git branch <branch name>
+		    To create a new branch.
+
+		9. git checkout <branch name>
+		    To switch branch to branch.
+
+		10. git merge <branch name>
+		     To merge the branch into the master.
+
+		11. git rebase master
+		     To update master from branch.
+
+		12. git push origin master
+		     To puch all thefiles to the central repository.
+
+		1. git init 
+		    Use to Install git in your local repository.
+
+		2. git remote add origin "<Link>"
+		    Use to add the remote repository to origin.
+
+		3. git pull origin master
+		    To fetch files from the central repository to local.
+
+		4. git status
+		    Tell us which files are add to Index and are ready to commit.
+
+		5. git add, git add -A
+		    To add single/ multiple files to the index.
+
+		6. git commit -m 
+		    A message of your commitment.
+
+		7. git log
+		    It shows the author and time about all your commit.
+
+		8. git branch <branch name>
+		    To create a new branch.
+
+		9. git checkout <branch name>
+		    To switch branch to branch.
+
+		10. git merge <branch name>
+		     To merge the branch into the master.
+
+		11. git rebase master
+		     To update master from branch.
+
+		12. git push origin master
+		     To puch all thefiles to the central repository.
