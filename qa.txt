@@ -23,3 +23,7 @@
 • Worked on EC2 (Elastic Compute Cloud), Launch an EC2 Instance, use of Putty (for Windows Users), Security Groups, Upgrading EBS Volume Types, Load Balancers and Health Checks, Cloud Watch EC2, Autoscaling Groups.
 • Complete hands on experience on VPC, Public subnets & private subnets,I ntroduction to Gateways, Understanding Route tables & Subnets, Build Your Own Custom VPC, Network Address Translation (NAT).
 • Worked on SNS, Create a Billing Alarm, Consolidated Billing
+
+
+
+EXPERIENCE DETAILS
